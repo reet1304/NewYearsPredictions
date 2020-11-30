@@ -1,1 +1,4 @@
 flask
+sqlitedict
+python-telegram-bot
+pydantic
